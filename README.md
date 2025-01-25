@@ -1,1 +1,1 @@
-The given projects are done for the internship at CODSOFT.
+The given projects are done for completing task given for internship at CODSOFT as web developer intern.
